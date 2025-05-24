@@ -1,2 +1,18 @@
-# OnlineShoppingApp
-This is a simple Online Shopping App built using HTML, CSS, and JavaScript. It demonstrates a basic e-commerce functionality where users can view available products, add items to their cart, sort products by price, and clear the cart. This project is designed to understand and practice DOM manipulation, event handling, and basic UI styling.
+# Online Shopping App
+
+This is a simple online shopping cart web application built with **HTML**, **CSS**, and **JavaScript**.
+
+## Features
+
+- Displays a list of available products with prices.
+- Users can **add products to the cart**.
+- Real-time **cart total** updates as products are added.
+- Option to **sort products by price**.
+- **Clear cart** button to remove all items and reset total.
+
+
+## Tech Stack
+
+- HTML
+- CSS
+- Javascript 
